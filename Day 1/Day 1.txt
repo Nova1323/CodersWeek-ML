@@ -1,18 +1,22 @@
 So, Granny, what is machine learning?
-Machine learning is a field of study that gives computers the ability to learn without being explicitly programmed. It is a very exciting and growing field that’s making computers more similar to humans. It is different from traditional computer science approaches. In regular computing, instructions are given to the computer to calculate and solve. Computers are really dumb and have to be told exactly what to do and how to do it. With machine learning, though, we can give a computer lots of data to analyze. It can then train on that data to produce output values that fall within a specific range.
+Machine learning is a field of study that gives computers the ability to learn without being explicitly programmed. It is a very exciting and growing field that’s making computers more similar to humans. It is different from traditional computer science approaches.
+In regular computing, instructions are given to the computer to calculate and solve. Computers are really dumb and have to be told exactly what to do and how to do it. With machine learning, though, we can give a computer lots of data to analyze. It can then train on that data to produce output values that fall within a specific range.
+
 For example, you know how you post pictures on Facebook, and it recommends people you should tag because they too might be in the photo? Oh, you don’t? Okay, how about when you’re watching Netflix and it recommends shows or movies you might like? That’s a little taste of machine learning.
+
 When cars drive themselves, machine learning will play an important role. Cars will collect lots of data to learn how to drive better and safer. Hopefully, this is making a lot of sense because we haven’t got into the best parts of machine learning. One thing is for sure, though: it will play a huge role in our lives going forward.
 
 Machine learning is not about robots coming out to destroy humans like you see in the movies. “Terminator” is the first thing people think of when they hear the term artificial intelligence or AI. That’s another thing I want to talk about. Machine learning is not artificial intelligence, but a subset of AI. This field has been around for quite some time, with the roots going back to the late 1950s. During that time period, IBM’s Arthur L. Samuel created the first machine learning application, which played chess.
-
 The result has been a revolution for AI. Things like Google Translate or Apple’s Siri are examples of the power of this technology.
 
 So you might be thinking, how exactly do we get these machines to learn? How does a computer collect all this information and make sense of it? Well, I can tell you that there’s a lot of math and algorithms involved to help produce the desired results. Alright, Grandma, I’m gonna break it down a simple as I can for you.
 
-Linear algebra is a field of mathematics that is universally agreed to be a prerequisite to a deeper understanding of machine learning. With a solid foundation of what linear algebra is, it is possible to focus on just the good or relevant parts.
-Math is important in this field because you need to know which algorithms to include when considering accuracy, training time, and a bunch of other stuff. Other than linear algebra, we also need to know the mathematical concepts of Calculus, algorithms, probability theory, and statistics. Python is the most used programming language in this field as well. A beginner doesn't actually need a whole lot of math to get started in this field.
+Linear algebra is a field of mathematics that is universally agreed to be a prerequisite to a deeper understanding of machine learning.
+With a solid foundation of what linear algebra is, it is possible to focus on just the good or relevant parts.
+Math is important in this field because you need to know which algorithms to include when considering accuracy, training time, and a bunch of other stuff. Other than linear algebra, we also need to know the mathematical concepts of Calculus, algorithms, probability theory, and statistics.
+Python is the most used programming language in this field as well. A beginner doesn't actually need a whole lot of math to get started in this field.
 
-Think of a brain
+Think of it like a brain
 The world has a lot of information, and our brain takes it all in to form our view of reality. A computer has to be able to do the same, and that’s where a neural network comes into play.
 Neural networks are the most popular way to get a computer to mimic a human brain. Your brain is made up of approximately 100 billion nerve cells, which are called neurons. Think of it like a network with a bunch of wires.
 
@@ -22,4 +26,5 @@ The output nodes (output layer) are the ones responsible for communicating that 
 Things get even cooler when you’re training the computer to network for other things, like audio recognition. The computer can learn how to parse speech, break down audio, and pick out distinct sounds.
 
 There are other ways for a machine to learn, including supervised learning, unsupervised learning, and reinforcement learning. I won’t be covering those topics, but those are the three methods that are often employed. To put it simply, Grandma, a neural network lets the computer take information, break it down into pieces it can understand, and then outputs the closest outcome it can.
+
 The Future Is Machine
