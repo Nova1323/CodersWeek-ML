@@ -17,5 +17,5 @@ The task in Day 5 was for sentiment analysis.
 
 The code used in this task may not work if the data contains any type of data other than `string`
 
-# License
+## License
 The code in this repository is Licensed by the [MIT License](https://github.com/Nova1323/CodersWeek-ML/blob/master/LICENSE)
